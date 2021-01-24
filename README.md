@@ -14,5 +14,7 @@ main.ipynb is created to display two items:
 1. Visualization on the count of salaries at binned salary levels.
 2. Bar graph of an average salary by title
 
+Epilogue:  when searching for "my own" Employee ID, the return is 'April Fools Day.'
+
 
 
